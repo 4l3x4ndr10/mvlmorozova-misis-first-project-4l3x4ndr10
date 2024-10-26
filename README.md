@@ -2,6 +2,7 @@
 Тенчурин А.А. БИВТ-21-4
 
 Аскинема:
+https://asciinema.org/a/o8AJiJ5IsWyyWfSg8uurpKyA7
 
 Сервис оценки качества кода Codeclimate:
 
